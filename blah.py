@@ -1,0 +1,2 @@
+def blah:
+	print (hi)
